@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fabric/patchwork/commit/6768f7880c23d041a6cd3a36d0f2660b50b183a4",
       "git:hexsha": "6768f7880c23d041a6cd3a36d0f2660b50b183a4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/fabric/patchwork/commit/2ecf589dcb19a125a0664d4aec6a240abf6de8fc",
